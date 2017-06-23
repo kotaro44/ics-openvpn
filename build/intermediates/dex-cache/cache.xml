@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ecf8fc68438f78a09fe9d474551492de81006808/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c879101226d1b2aaf6edae3d7491de6fd56d2659">
+        <dex dex="/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/pre-dexed/normal/debug/classes_a0d4f6b3eca483c00888466acca631fb150c003e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/pre-dexed/normal/debug/support-annotations-25.4.0_1eebd83978ce2d98ac2faf4500d91e09f6266bb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f9885ec85a9d1db43d2cc00328aa586804835355/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/pre-dexed/normal/debug/classes_b68c3f9d590c08bf6595687a6bf4b0825140291b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ffb15bf0633131f7425fd9cd96d03c90c59ab75e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/pre-dexed/normal/debug/classes_79acbba7b466f44bb2d02c38d422b1015fd448de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.2/5d4eb08a326bdbd7fbbddc769666898c9936b282/MPAndroidChart-v3.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/pre-dexed/normal/debug/MPAndroidChart-v3.0.2_eb91e8ba35dcda3f06424cfcc2a1b081c0001033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/41b458a410c0856144c4c5286d4d79e3bb20eb22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/pre-dexed/normal/debug/classes_9f945c9cff6738529f13b29bffc63b5509b39e4e.jar" />
+    </item>
+
+</items>

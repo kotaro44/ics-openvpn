@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/menu/import_menu.xml",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/src/main/res/menu/import_menu.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/menu/allowed_apps.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/src/main/res/menu/allowed_apps.xml"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/menu/configmenu.xml",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/src/main/res/menu/configmenu.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/menu/main_menu.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/menu/vpnpreferences_menu.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/src/main/res/menu/vpnpreferences_menu.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/menu/logmenu.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/src/main/res/menu/logmenu.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/menu/connections.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/src/main/res/menu/connections.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/menu/connections.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/src/main/res/menu/connections.xml"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/menu/main_menu.xml",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/menu/configmenu.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/src/main/res/menu/configmenu.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/menu/allowed_apps.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/src/main/res/menu/allowed_apps.xml"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/menu/allowed_apps.xml",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/src/main/res/menu/allowed_apps.xml"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/menu/vpnpreferences_menu.xml",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/src/main/res/menu/vpnpreferences_menu.xml"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/menu/logmenu.xml",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/src/main/res/menu/logmenu.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/menu/vpnpreferences_menu.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/src/main/res/menu/vpnpreferences_menu.xml"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/menu/connections.xml",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/src/main/res/menu/connections.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/menu/configmenu.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/src/main/res/menu/configmenu.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/menu/logmenu.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/src/main/res/menu/logmenu.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/menu/import_menu.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/src/main/res/menu/import_menu.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/menu/main_menu.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/menu/import_menu.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/src/main/res/menu/import_menu.xml"
+    }
+]

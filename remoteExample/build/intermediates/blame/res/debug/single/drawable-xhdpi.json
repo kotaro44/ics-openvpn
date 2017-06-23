@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

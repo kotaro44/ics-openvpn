@@ -1,0 +1,764 @@
+[
+    {
+        "outputFile": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 57,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 55,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 52,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 50,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 50,
+                        "endOffset": 771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 51,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 51,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 49,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 49,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 52,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 52,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 42,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 42,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 55,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 460,
+                        "endColumn": 55,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 88,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 88,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 49,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 559,
+                        "endColumn": 49,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 65,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 65,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 860
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 339
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/client/projectsAndroid/ics-openvpn/remoteExample/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/client/projectsAndroid/ics-openvpn/remoteExample/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 57,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/client/projectsAndroid/ics-openvpn/remoteExample/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 55,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/home/client/projectsAndroid/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 52,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 50,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "/home/client/projectsAndroid/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 50,
+                        "endOffset": 771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 51,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/home/client/projectsAndroid/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 51,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 49,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/home/client/projectsAndroid/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 49,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 52,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "/home/client/projectsAndroid/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 52,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 42,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "/home/client/projectsAndroid/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 42,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 55,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "/home/client/projectsAndroid/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 460,
+                        "endColumn": 55,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 88,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/home/client/projectsAndroid/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 88,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 49,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "/home/client/projectsAndroid/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 559,
+                        "endColumn": 49,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 65,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "/home/client/projectsAndroid/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 65,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 860
+                },
+                "from": {
+                    "file": "/home/client/projectsAndroid/ics-openvpn/remoteExample/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 339
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 57,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 55,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 52,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 50,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 50,
+                        "endOffset": 771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 51,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 51,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 49,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 49,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 52,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 52,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 42,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 42,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 55,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 460,
+                        "endColumn": 55,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 88,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 88,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 49,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 559,
+                        "endColumn": 49,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 65,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 65,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 860
+                },
+                "from": {
+                    "file": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 339
+                    }
+                }
+            }
+        ]
+    }
+]

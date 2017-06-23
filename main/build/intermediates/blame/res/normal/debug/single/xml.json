@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/xml/vpn_routing.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/src/main/res/xml/vpn_routing.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/xml/general_settings.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/src/main/res/xml/general_settings.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/xml/vpn_routing.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/src/main/res/xml/vpn_routing.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/xml/vpn_obscure.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/src/main/res/xml/vpn_obscure.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/xml/general_settings.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/src/main/res/xml/general_settings.xml"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/xml/vpn_routing.xml",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/src/main/res/xml/vpn_routing.xml"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/xml/general_settings.xml",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/src/main/res/xml/general_settings.xml"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/xml/vpn_authentification.xml",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/src/main/res/xml/vpn_authentification.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/xml/vpn_authentification.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/src/main/res/xml/vpn_authentification.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/xml/vpn_ipsettings.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/src/main/res/xml/vpn_ipsettings.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/xml/vpn_authentification.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/src/main/res/xml/vpn_authentification.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/xml/vpn_obscure.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/src/main/res/xml/vpn_obscure.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/xml/vpn_ipsettings.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/src/main/res/xml/vpn_ipsettings.xml"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/xml/vpn_obscure.xml",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/src/main/res/xml/vpn_obscure.xml"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/xml/vpn_ipsettings.xml",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/src/main/res/xml/vpn_ipsettings.xml"
+    }
+]

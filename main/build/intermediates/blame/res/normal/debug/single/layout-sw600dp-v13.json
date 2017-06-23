@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/layout-sw600dp-v13/log_fragment.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/src/main/res/layout-sw600dp/log_fragment.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/layout-sw600dp-v13/log_fragment.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/src/main/res/layout-sw600dp/log_fragment.xml"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/layout-sw600dp-v13/log_fragment.xml",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/src/main/res/layout-sw600dp/log_fragment.xml"
+    }
+]

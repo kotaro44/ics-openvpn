@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/remoteExample/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/remoteExample/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/client/projectsAndroid/ics-openvpn/remoteExample/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/remoteExample/src/main/res/menu/main.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

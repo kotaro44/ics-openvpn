@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/drawable-ldpi/ic_shortcut_vpn_key.png",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/generated/res/pngs/normal/debug/drawable-ldpi/ic_shortcut_vpn_key.png"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/intermediates/res/merged/normal/debug/drawable-ldpi/ic_shortcut_cancel.png",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn.bck/main/build/generated/res/pngs/normal/debug/drawable-ldpi/ic_shortcut_cancel.png"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/drawable-ldpi/ic_shortcut_vpn_key.png",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/build/generated/res/pngs/normal/debug/drawable-ldpi/ic_shortcut_vpn_key.png"
+    },
+    {
+        "merged": "/home/client/projectsAndroid/ics-openvpn/main/build/intermediates/res/merged/normal/debug/drawable-ldpi/ic_shortcut_cancel.png",
+        "source": "/home/client/projectsAndroid/ics-openvpn/main/build/generated/res/pngs/normal/debug/drawable-ldpi/ic_shortcut_cancel.png"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/drawable-ldpi/ic_shortcut_cancel.png",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/generated/res/pngs/normal/debug/drawable-ldpi/ic_shortcut_cancel.png"
+    },
+    {
+        "merged": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/intermediates/res/merged/normal/debug/drawable-ldpi/ic_shortcut_vpn_key.png",
+        "source": "/home/client/AndroidStudioProjects/ics-openvpn/main/build/generated/res/pngs/normal/debug/drawable-ldpi/ic_shortcut_vpn_key.png"
+    }
+]
